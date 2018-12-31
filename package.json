@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/adaror/practice#readme",
   "dependencies": {
+    "lodash": "^4.17.11",
     "react": "^16.7.0"
   }
 }
